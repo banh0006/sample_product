@@ -1,16 +1,20 @@
-{ 
-"data" : [
-  {
-    "url": "1",
-    "cleanUrl": "anthracite"
-  }, 
-  {
-    "url": "2",
-    "cleanUrl": "satin-gunmetal"
-  },
-  {
-    "url": "3",
-    "cleanUrl": "rtx-floor-mats-p826633"
-  }
-] 
+{
+    "data": [
+        {
+            "url": "1",
+            "cleanUrl": "anthracite"
+        },
+        {
+            "url": "2",
+            "cleanUrl": "satin-gunmetal"
+        },
+        {
+            "url": "3",
+            "cleanUrl": "rtx-floor-mats-p826633"
+        },
+        {
+            "url": "4",
+            "cleanUrl": "aventure-gloss-gunmetal-w219455"
+        }
+    ]
 }
